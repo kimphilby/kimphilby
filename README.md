@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="你的头像链接" width="200" height="200" style="border-radius: 50%;">
-  <h1>Hi 👋, 我是你的名字</h1>
+  <img src="https://jtliu.us.kg/file/1741005702635_100723659_p0.jpg" width="200" height="200" style="border-radius: 50%;">
+  <h1>Hi 👋, 我是kimphilby</h1>
   <p>
     <em>💻 全栈开发者 | 🚀 开源爱好者 | ☁️ 云计算探索者</em>
   </p>
@@ -28,6 +28,3 @@
 ### 📈 活跃度
 [![代码时间](https://wakatime.com/badge/user/你的ID.svg)](https://wakatime.com/@kimphilby)
 
-### 📫 找到我
-[<img src="https://img.icons8.com/color/48/linkedin.png" width="30">](LinkedIn链接)
-[<img src="https://img.icons8.com/fluency/48/twitter.png" width="30">](Twitter链接)
