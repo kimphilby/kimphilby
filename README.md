@@ -1,30 +1,23 @@
 <div align="center">
-  <img src="https://jtliu.us.kg/file/1741005702635_100723659_p0.jpg" width="200" height="200" style="border-radius: 50%;">
-  <h1>Hi 👋, 我是kimphilby</h1>
-  <p>
-    <em>💻 全栈开发者 | 🚀 开源爱好者 | ☁️ 云计算探索者</em>
-  </p>
-
-  ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-  ![AWS](https://img.shields.io/badge/AWS-Certified-orange?logo=amazon-aws)
-  ![Git](https://img.shields.io/badge/Git-Pro-black?logo=git)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=你的ID&theme=dark)](https://git.io/streak-stats)
+  <img src="https://jtliu.us.kg/file/1741005702635_100723659_p0.jpg" width="1080" height="720" style="border-radius: 50%;">
 </div>
 
----
+## About me
+hello!	
+Hi, I'm kimphilby，
 
-### 🛠️ 我的工具箱
-- **语言**: Python, JavaScript, Go
-- **框架**: Django, React, TensorFlow
-- **工具**: Docker, Kubernetes, Grafana
+Open source! As long as I can keep the lights on and the pizza coming, I'll keep doing open source projects!
 
-### 🌟 精选项目
-| 项目名 | 描述 | 技术栈 |
-| ------ | ---- | ------ |
-| [AI助手](链接) | 基于LLM的智能对话系统 | Python, PyTorch, FastAPI |
-| [轻量CMS](链接) | 无数据库的Markdown内容管理 | Go, React, WASM |
+I love video games, but I usually don't play them much. I'm really into VR, though!
 
-### 📈 活跃度
-[![代码时间](https://wakatime.com/badge/user/你的ID.svg)](https://wakatime.com/@kimphilby)
+If you like me, feel free to give my software a try!
 
+
+## GitHub stats
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=kimphilby&show_icons=true&bg_color=ffffff&title_color=FF1958&hide_title=true&theme=swift)
+
+
+## visit by
+
+![Visited By](https://count.getloli.com/get/@kimphilby?theme=gelbooru)
