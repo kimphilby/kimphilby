@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://jtliu.us.kg/file/1741005702635_100723659_p0.jpg" width="1080" height="720" style="border-radius: 50%;">
+  <img src="https://jtliu.us.kg/file/1741520258716.jpg" width="1080" height="720" style="border-radius: 50%;">
 </div>
 
 ## About me
